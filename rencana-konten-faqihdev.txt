@@ -3,7 +3,10 @@ RENCANA KONTEN FAQIHDEV
 - Javascript
   + ES6
   + Framework Javascript
+    + Vue JS
 - Struktur Data Dasar
 - PHP Frameworks
+  + Laravel
 - Interview
 - Vlogs
+- Python
