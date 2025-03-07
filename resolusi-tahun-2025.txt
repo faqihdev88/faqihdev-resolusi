@@ -1,1 +1,5 @@
+FaqihDev Resolusi di tahun 2025:
 
+1. Menguasai React Native
+2. Sudah bisa membuat dummy project dgn bahasa React Native
+3. Membuat portofolio bahwasanya FaqihDev adalah seorang programmer
